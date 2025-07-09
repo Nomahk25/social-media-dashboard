@@ -1,0 +1,23 @@
+[
+  {
+    "platform": "Twitter",
+    "followers": 1200,
+    "likes": 430,
+    "comments": 210,
+    "icon": "twitter.png"
+  },
+  {
+    "platform": "Instagram",
+    "followers": 3400,
+    "likes": 1100,
+    "comments": 390,
+    "icon": "instagram.png"
+  },
+  {
+    "platform": "YouTube",
+    "followers": 5400,
+    "likes": 980,
+    "comments": 620,
+    "icon": "youtube.png"
+  }
+]
